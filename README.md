@@ -72,7 +72,8 @@ AI-Powered-Identity-Verification-and-Fraud-Detection-for-KYC-Compliance/
 ### 1. Clone the Repository
 
 git clone https://github.com/maheswari-segireddy/AI_identity_verification_KYC_Compliance.git
-cd AI-Powered-Identity-Verification-and-Fraud-Detection-for-KYC-Compliance
+
+cd KYC_Compliance
 
 
 ### 2. Install Dependencies
